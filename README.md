@@ -39,7 +39,7 @@ rails s
     
 - LinkedIn: [Glorydavid](https://www.linkedin/glory-david) 
 - GitHub: [@glowreeyah](https://github.com/glowreeyah)
-- E-mail: glodave99@gmail.com-
+- E-mail: glodave99@gmail.com
 - Twitter: [@gloweeeyah](https://twitter.com/gloweeeyah)
 
 ## 🤝 Contributing
